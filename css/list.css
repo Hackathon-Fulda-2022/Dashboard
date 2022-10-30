@@ -1,0 +1,11 @@
+#patient-list li.hide {
+    display: none;
+}
+
+li:hover {
+    background-color: #e8ebf0;
+}
+
+li a:hover {
+    text-decoration: none;
+}
